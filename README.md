@@ -17,6 +17,6 @@ When you are done with ALL problems:
 * Copy the URL. The URL should be something like: [https://www.codewars.com/users/codingwithann/completed](https://www.codewars.com/users/codingwithann/completed)
 * Edit this README and paste the URL below:
 
-Paste your URL HERE:
+Paste your URL HERE: https://www.codewars.com/users/danielnelson37/completed_solutions
 
 Submit the URL for this Github Repo to Canvas
